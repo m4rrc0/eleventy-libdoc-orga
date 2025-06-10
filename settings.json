@@ -1,14 +1,33 @@
 {
-    "siteTitle": "My Project Title",
-    "siteDescription": "This is the description of my project title",
-    "author": "John Doe",
-    "faviconUrl": "/assets/myfavicon.png",
-    "blogTitle": "Blog",
-    "customLinks": [
-        {
-            "url": "https://github.com/ita-design-system/eleventy-libdoc",
-            "text": "GitHub"
-        }
+    "lang": "fr",
+    "siteTitle": "11ty LibDoc",
+    "siteDescription": "An Eleventy starter project to craft slick documentation",
+    "siteLogoUrl": "",
+    "siteLogoMaxHeight": 60,
+    "author": false,
+    "faviconUrl": "/favicon.png",
+    "ogImageUrl": "https://raw.githubusercontent.com/ita-design-system/ita-medias/refs/heads/main/ogimage-11ty-libdoc.png",
+    "customLinks": [],
+    "blogTitle": false,
+    "blogDescription": false,
+    "blogAuthor": false,
+    "blogSlug": false,
+    "displayTagsListLink": true,
+    "tocEnabled": true,
+    "tocHtmlTags": ["h1", "h2", "h3", "h4", "h5", "h6"],
+    "tocMinTags": 1,
+    "htmlBasePathPrefix": "",
+    "sandboxRunSwitch": true,
+    "searchEnabled": true,
+    "hljsLanguages": [
+        "xml",
+        "javascript",
+        "json",
+        "yaml",
+        "liquid",
+        "markdown",
+        "css"
     ],
-    "editThisPageRootUrl": "https://github.com/ita-design-system/eleventy-libdoc/blob/main"
+    "roundedImagesCorners": true,
+    "editThisPageRootUrl": false
 }
