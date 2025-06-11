@@ -61,7 +61,7 @@ Entrepreneur, développeur web, administrateur de 2 ASBL, papa...
 - Agenda
 - Fichiers / Dossiers (locaux / cloud)
 - Prise de notes (outil tout-en-un)
-- Tâches / Projets / Areas
+- Tâches / Projets
 
 #### Utilisation des outils
 

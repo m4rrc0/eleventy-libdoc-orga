@@ -10,6 +10,10 @@ tags:
 
 # Module 1 : Diagnostic et cadrage<br>Fiche d'animation détaillée (45 min)
 
+## Supports
+
+- [Fiche de diagnostic personnel](/supports/1_diagnostic/fiche_diagnostic_personnel.md)
+
 ## Objectifs du module
 
 - Créer un climat de confiance et d'échange entre les participants

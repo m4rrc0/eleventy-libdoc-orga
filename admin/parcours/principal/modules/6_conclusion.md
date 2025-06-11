@@ -11,6 +11,10 @@ tags:
 
 # Module 6 : Conclusion et plan d'action<br>Fiche d'animation détaillée (30 min)
 
+## Supports
+
+- [Plan action personnel](/supports/6_conclusion/plan_action_personnel.md)
+
 ## Objectifs du module
 
 - Synthétiser les apprentissages clés de la journée

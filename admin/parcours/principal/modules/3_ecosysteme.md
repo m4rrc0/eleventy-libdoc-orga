@@ -12,6 +12,11 @@ tags:
 
 # Module 3 : Écosystème organisationnel<br>Fiche d'animation détaillée (55 min)
 
+## Supports
+
+- [Cartographie ecosysteme](/supports/3_ecosysteme/cartographie_ecosysteme.md)
+- [Outils fondamentaux](/supports/3_ecosysteme/outils_fondamentaux.md)
+
 ## Objectifs du module
 
 - Cartographier l'écosystème d'outils actuel des participants par sphère de vie
@@ -105,11 +110,13 @@ Présenter les six piliers de tout système organisationnel et permettre aux par
 2. **Présentation par blocs interactifs** (16 min)
 
    - **Bloc 1 : Outils de capture et traitement initial** (5 min)
+
      - Présenter l'outil fondamental #1 : **Boîte mail** (2 min)
      - Présenter l'outil fondamental #2 : **Système de capture** (1 min)
      - Mini-exercice (2 min) : "Sur votre cartographie, identifiez vos points d'entrée d'information par sphère et évaluez leur efficacité"
 
    - **Bloc 2 : Outils de planification et suivi** (5 min)
+
      - Présenter l'outil fondamental #3 : **Agenda** (2 min)
      - Présenter l'outil fondamental #4 : **Gestionnaire de tâches** (1 min)
      - Mini-exercice (2 min) : "Pour votre sphère prioritaire, notez comment vous gérez actuellement (1) le temps et (2) les tâches - Échangez en binôme"
@@ -156,7 +163,7 @@ Présenter les six piliers de tout système organisationnel et permettre aux par
    - Exemples: Notion, Obsidian, carnet papier
    - Points clés: Accessibilité, recherche efficace
 
-6. **Tâches/Projets/Areas**
+6. **Tâches/Projets**
    - Fonction: Suivi des actions et responsabilités
    - Exemples: Todoist, Trello, méthode PARA
    - Points clés: Vue d'ensemble, priorisation, contextes

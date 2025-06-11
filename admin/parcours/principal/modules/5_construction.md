@@ -11,6 +11,10 @@ tags:
 
 # Module 5 : Construction du système personnel<br>Fiche d'animation détaillée (75 min)
 
+## Supports
+
+- [Template systeme personnel](/supports/5_construction/template_systeme_personnel.md)
+
 ## Objectifs du module
 
 - Permettre à chaque participant de concevoir son système personnel d'organisation
@@ -50,7 +54,7 @@ Transformer les méthodes identifiées au module précédent en composantes d'un
    - Demander aux participants de reprendre leur grille d'auto-évaluation complétée au module 4
    - Consigne : "Relisez les 2-3 méthodes que vous avez identifiées comme prioritaires"
    - Inviter à consulter le catalogue complet pour approfondir ces méthodes
-   - Proposer de répondre aux questions : 
+   - Proposer de répondre aux questions :
      - "Quels principes essentiels de ces méthodes voulez-vous intégrer ?"
      - "Quels éléments semblent trop complexes ou inadaptés à votre contexte ?"
 
@@ -105,16 +109,18 @@ Transformer les principes et éléments identifiés en un système d'organisatio
 
    - Distribution du canevas de conception du système personnel
    - Consigne : "En utilisant les éléments identifiés dans l'activité précédente:
+
      - Définissez concrètement chacun des 6 outils fondamentaux de votre système
      - Spécifiez comment vous allez appliquer les principes des méthodes choisies dans ces outils
      - Tracez et explicitez les flux d'information entre les outils
      - Établissez les routines quotidiennes, hebdomadaires et mensuelles de maintenance"
-   
+
    - Configuration de l'espace en trois zones de ressources:
+
      - Zone A: Solutions analogiques (carnets, fiches, tableaux physiques)
      - Zone B: Solutions numériques (applications, logiciels, services en ligne)
      - Zone C: Solutions hybrides et intégrations
-   
+
    - Circuler pour guider individuellement en posant des questions structurantes:
      - "Comment s'articule le principe X de la méthode Y dans votre système?"
      - "Quel flux d'information pourrait être simplifié?"
@@ -173,11 +179,12 @@ Vérifier la résilience du système face à des scénarios réels et affiner so
    - Distribution de la matrice des scénarios (classifiés selon les besoins identifiés au module 4)
    - Consigne : "Sélectionnez 2 scénarios qui correspondent à vos principaux défis organisationnels"
    - Pour chaque scénario:
+
      - Tracer le parcours de l'information à travers le système
      - Repérer les étapes où les principes des méthodes choisies sont appliqués
      - Identifier les points potentiels de rupture ou friction
      - Définir les ajustements nécessaires
-   
+
    - Encourager le partage de réflexions en petits groupes (2-3 personnes)
 
 3. **Raffinement et documentation** (5 min)
@@ -191,18 +198,22 @@ Vérifier la résilience du système face à des scénarios réels et affiner so
 ### Matrice des scénarios organisés par catégories de besoins
 
 #### Gestion du flux d'information
+
 1. **Surcharge d'emails** - 50 nouveaux emails en une matinée
 2. **Multiples sources d'information** - Jongler entre emails, messages et informations verbales
 
 #### Gestion du temps et des priorités
+
 3. **Journée fragmentée** - Interruptions constantes et tâches imprévues
 4. **Conflit de priorités** - Plusieurs demandes urgentes et importantes simultanées
 
 #### Organisation des tâches et projets
+
 5. **Projet complexe imprévu** - Un nouveau projet avec échéance rapprochée
 6. **Multiples projets en parallèle** - Gérer 5+ projets avec des dépendances croisées
 
 #### Organisation des connaissances
+
 7. **Recherche d'information urgente** - Retrouver un document critique rapidement
 8. **Capitalisation d'apprentissage** - Intégrer de nouvelles connaissances à votre système
 

@@ -12,6 +12,13 @@ tags:
 
 # Module 2 : Fondations conceptuelles<br>Fiche d'animation détaillée (45 min)
 
+## Supports
+
+- [Grille diagnostic collaboratif](/supports/2_fondations/grille_diagnostic_collaboratif.md)
+- [Schema 4 facettes](/supports/2_fondations/schema_4_facettes.md)
+- [Schema 4 facettes interactif](/supports/2_fondations/schema_4_facettes_interactif.md)
+- [Chaos vs Clarté](/supports/2_fondations/chaos_vs_clarte_instructions.md)
+
 ## Objectifs du module
 
 - Faire expérimenter concrètement l'impact de la surcharge informationnelle
@@ -106,6 +113,7 @@ Permettant aux participants d'identifier leurs différentes sphères de responsa
 ### Template de cartographie
 
 Format A4 avec :
+
 - Cercles concentriques pour positionner les sphères selon leur importance
 - Zones pour noter les éléments clés de chaque sphère
 - Espace pour identifier les interactions
@@ -145,14 +153,14 @@ Présenter les concepts fondamentaux de l'organisation personnelle et un cadre s
      - Méthodes et techniques : approches structurées
      - Outils : supports concrets
 
-2. **Exploration interactive** (8 min)
+3. **Exploration interactive** (8 min)
 
    - Pour chaque facette, donner une définition concise
    - Illustrer avec 1-2 exemples concrets reliés à l'expérience vécue
    - Après chaque facette, demander: "Comment cette facette se manifeste dans votre quotidien ?"
    - Recueillir 1-2 réactions brèves par facette
 
-3. **Articulation des facettes** (4 min)
+4. **Articulation des facettes** (4 min)
    - Montrer l'interdépendance entre les facettes
    - Expliquer la cohérence nécessaire entre elles
    - Introduire l'idée que chacun doit trouver son équilibre personnel

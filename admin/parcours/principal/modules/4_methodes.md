@@ -11,6 +11,12 @@ tags:
 
 # Module 4 : Panorama des méthodes d'organisation<br>Fiche d'animation détaillée (60 min)
 
+## Supports
+
+- [Grille auto evaluation methodes](/supports/4_methodes/grille_auto_evaluation_methodes.md)
+- [Guide methodes organisation](/supports/4_methodes/guide_methodes_organisation.md)
+- [Matrice comparative methodes](/supports/4_methodes/matrice_comparative_methodes.md)
+
 ## Objectifs du module
 
 - Présenter une vision structurée des principales méthodes d'organisation personnelle

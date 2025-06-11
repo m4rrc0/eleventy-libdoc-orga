@@ -10,4 +10,5 @@ layout: libdoc_page.liquid
 - [TODO](/admin/TODO)
 - [Brainstorming](/admin/brainstorming)
 - [Parcours](/admin/parcours)
-- [Supports](/admin/supports)
+- [Supports](/supports)
+- [Sources](/sources)
