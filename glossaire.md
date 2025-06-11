@@ -5,6 +5,7 @@ date: git Last Modified
 layout: libdoc_page.liquid
 eleventyNavigation:
   key: Glossaire
+  order: 30
 ---
 
 # Glossaire

@@ -3,8 +3,6 @@ title: Brainstorming
 description: Brainstorming
 date: git Last Modified
 layout: libdoc_page.liquid
-eleventyNavigation:
-  key: Brainstorming
 ---
 
 # Brainstorming

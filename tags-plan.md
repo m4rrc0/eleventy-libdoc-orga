@@ -5,6 +5,7 @@ date: git Last Modified
 layout: libdoc_page.liquid
 eleventyNavigation:
   key: Tags
+  order: 20
 ---
 
 # Système de Tags

@@ -1,6 +1,9 @@
 ---
 status: noindex
-titre: "Guide du formateur - Parcours d'initiation à l'organisation personnelle"
+title: "Guide du formateur"
+description: "Guide du formateur - Parcours d'initiation à l'organisation personnelle"
+date: git Last Modified
+layout: libdoc_page.liquid
 tags:
   - formation
   - guide
@@ -79,11 +82,11 @@ Ce guide détaille le déroulé complet de la formation de 6h sur l'organisation
 
 **Déroulé :**
 
-| Durée  | Activité                        | Instructions                                                        | Points d'attention                                                          |
-| ------ | ------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| 8 min  | Diagnostic collaboratif         | Échange structuré sur les défis organisationnels actuels           | Faciliter l'émergence des patterns communs entre participants              |
-| 15 min | Cartographie des sphères de vie | Création d'une représentation visuelle des domaines de responsabilité | Guider vers une prise de conscience de l'interconnexion entre les sphères   |
-| 12 min | Concepts clés et 4 facettes     | Présentation s'appuyant sur les sphères identifiées                | Relier explicitement les concepts aux sphères cartées par les participants |
+| Durée  | Activité                        | Instructions                                                          | Points d'attention                                                         |
+| ------ | ------------------------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| 8 min  | Diagnostic collaboratif         | Échange structuré sur les défis organisationnels actuels              | Faciliter l'émergence des patterns communs entre participants              |
+| 15 min | Cartographie des sphères de vie | Création d'une représentation visuelle des domaines de responsabilité | Guider vers une prise de conscience de l'interconnexion entre les sphères  |
+| 12 min | Concepts clés et 4 facettes     | Présentation s'appuyant sur les sphères identifiées                   | Relier explicitement les concepts aux sphères cartées par les participants |
 
 **Points clés à faire émerger :**
 
@@ -101,17 +104,17 @@ Ce guide détaille le déroulé complet de la formation de 6h sur l'organisation
 **Objectifs :**
 
 - Cartographier l'écosystème d'outils personnels par sphère de vie
-- Présenter de manière interactive les 6 outils fondamentaux 
+- Présenter de manière interactive les 6 outils fondamentaux
 - Évaluer l'adéquation des outils aux besoins spécifiques de chaque sphère
 
 **Déroulé :**
 
-| Durée  | Activité                                | Instructions                                                               | Points d'attention                                                    |
-| ------ | --------------------------------------- | -------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| 15 min | Cartographie des outils par sphère      | Organiser sa cartographie d'outils selon les sphères identifiées au module 2 | Analyser les flux d'information entre sphères et identifier les outils pivots |
-| 20 min | Présentation interactive des 6 outils   | Présentation par blocs avec mini-exercices pratiques entre les explications | Montrer comment adapter les outils fondamentaux à chaque sphère      |
-| 15 min | Diagnostic par sphère en binômes       | Analyse ciblée sur la sphère prioritaire de chaque participant            | Utiliser une grille d'analyse à 3 niveaux: intra-sphère, inter-sphères et systémique |
-| 5 min  | Préparation et questions               | Lien avec le module 4 et clarification des points de compréhension            | Préparer la transition vers les méthodes de l'après-midi              |
+| Durée  | Activité                              | Instructions                                                                 | Points d'attention                                                                   |
+| ------ | ------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| 15 min | Cartographie des outils par sphère    | Organiser sa cartographie d'outils selon les sphères identifiées au module 2 | Analyser les flux d'information entre sphères et identifier les outils pivots        |
+| 20 min | Présentation interactive des 6 outils | Présentation par blocs avec mini-exercices pratiques entre les explications  | Montrer comment adapter les outils fondamentaux à chaque sphère                      |
+| 15 min | Diagnostic par sphère en binômes      | Analyse ciblée sur la sphère prioritaire de chaque participant               | Utiliser une grille d'analyse à 3 niveaux: intra-sphère, inter-sphères et systémique |
+| 5 min  | Préparation et questions              | Lien avec le module 4 et clarification des points de compréhension           | Préparer la transition vers les méthodes de l'après-midi                             |
 
 **Points clés à faire émerger :**
 
@@ -135,11 +138,11 @@ Ce guide détaille le déroulé complet de la formation de 6h sur l'organisation
 
 **Déroulé :**
 
-| Durée  | Activité                              | Instructions                                                               | Points d'attention                                        |
-| ------ | ------------------------------------- | -------------------------------------------------------------------------- | --------------------------------------------------------- |
-| 15 min | Identification des besoins            | Cartographie des besoins prioritaires individuels et collectifs            | Faire le lien avec les défis identifiés précédemment       |
-| 25 min | Présentation structurée des méthodes   | Exposé organisé par catégories de besoins avec matrice comparative        | Éviter le jargon technique, illustrer par des exemples    |
-| 15 min | Identification des méthodes adaptées | Réflexion individuelle guidée et échanges en binômes sur les choix            | Encourager l'approche pragmatique et adaptative           |
+| Durée  | Activité                             | Instructions                                                              | Points d'attention                                       |
+| ------ | ------------------------------------ | ------------------------------------------------------------------------- | -------------------------------------------------------- |
+| 15 min | Identification des besoins           | Cartographie des besoins prioritaires individuels et collectifs           | Faire le lien avec les défis identifiés précédemment     |
+| 25 min | Présentation structurée des méthodes | Exposé organisé par catégories de besoins avec matrice comparative        | Éviter le jargon technique, illustrer par des exemples   |
+| 15 min | Identification des méthodes adaptées | Réflexion individuelle guidée et échanges en binômes sur les choix        | Encourager l'approche pragmatique et adaptative          |
 | 5 min  | Préparation au module 5              | Synthèse des apprentissages et transition vers la construction de système | Souligner l'aspect progressif de l'adoption des méthodes |
 
 **Points clés à faire émerger :**
@@ -164,12 +167,12 @@ Ce guide détaille le déroulé complet de la formation de 6h sur l'organisation
 
 **Déroulé :**
 
-| Durée  | Activité                                | Instructions                                                       | Points d'attention                                           |
-| ------ | --------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------ |
+| Durée  | Activité                                | Instructions                                                         | Points d'attention                                                 |
+| ------ | --------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | 15 min | Intégration des méthodes choisies       | Utilisation des grilles complétées au module 4 comme point de départ | Faire le lien explicite avec les méthodes identifiées précédemment |
-| 30 min | Structuration du système personnel     | Conception sur canevas A3 avec application des principes retenus    | Encourager la simplicité et l'intégration des méthodes choisies  |
-| 20 min | Test et amélioration face aux scénarios | Simulation avec des scénarios organisés par catégories de besoins   | Valoriser l'adaptation comme signe d'intelligence             |
-| 10 min | Plan d'action et conclusion             | Élaboration d'un plan d'implémentation en 3 étapes               | Insister sur le caractère progressif et itératif               |
+| 30 min | Structuration du système personnel      | Conception sur canevas A3 avec application des principes retenus     | Encourager la simplicité et l'intégration des méthodes choisies    |
+| 20 min | Test et amélioration face aux scénarios | Simulation avec des scénarios organisés par catégories de besoins    | Valoriser l'adaptation comme signe d'intelligence                  |
+| 10 min | Plan d'action et conclusion             | Élaboration d'un plan d'implémentation en 3 étapes                   | Insister sur le caractère progressif et itératif                   |
 
 **Points clés à faire émerger :**
 

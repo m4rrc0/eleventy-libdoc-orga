@@ -1,4 +1,5 @@
 ---
+title: Parcours
 # Idée de structure
 # -----------------
 # ├── parcours/                   # Les parcours pédagogiques
@@ -7,3 +8,5 @@
 # │   ├── stress-reduction.md     # Parcours gestion du stress
 # │   └── ...
 ---
+
+- [Parcours Principal](/admin/parcours/principal)

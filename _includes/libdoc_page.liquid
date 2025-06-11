@@ -3,6 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    {% if status == "noindex" %}
+    <meta name="robots" content="noindex, nofollow">
+    {% endif %}
+
     <title>{{ pageTitle }}</title>
     {% comment %} <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"> {% endcomment %}
 
@@ -225,7 +230,7 @@
                     {% endif %}
                 </menu>
                 
-                {% if collections.post.size > 0 %}
+                {% if collections.post.size > 0 and libdocConfig.blogTitle %}
                     <a  href="/{{ libdocConfig.blogSlug }}/"
                         id="nav_primary_blog_link"
                         {% if pageUrlSplit[1] == libdocConfig.blogSlug %}

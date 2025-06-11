@@ -3,8 +3,6 @@ title: TODO
 description: TODO
 date: git Last Modified
 layout: libdoc_page.liquid
-eleventyNavigation:
-  key: TODO
 ---
 
 # Suivi de projet - Organisation personnelle

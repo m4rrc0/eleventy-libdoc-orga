@@ -3,8 +3,10 @@ title: Ressources
 description: Ressources
 date: git Last Modified
 layout: libdoc_page.liquid
-eleventyNavigation:
+override:eleventyComputed: null
+override:eleventyNavigation:
   key: Ressources
+  order: 10
 ---
 
 # Méthodes et Ressources d'Organisation Personnelle

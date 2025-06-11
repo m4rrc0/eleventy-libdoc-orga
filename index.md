@@ -5,6 +5,7 @@ date: git Last Modified
 layout: libdoc_page.liquid
 eleventyNavigation:
   key: Accueil
+  order: 0
 ---
 
 # L'organisation personnelle
